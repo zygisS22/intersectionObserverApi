@@ -2,7 +2,7 @@
 
 ![IO Api gif](/src/inViewport.gif)
 
-This repository was created for the following [Article](https://dev.to/zygiss22/intersection-observer-in-react).
+This repository was created for the following [Article](https://dev.to/zygiss22).
 
 inside <code>/src</code> you can find two files:
 
